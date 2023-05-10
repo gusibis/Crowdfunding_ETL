@@ -96,3 +96,4 @@ Create the Crowdfunding Database
 7.	Import each CSV file into its corresponding SQL table.
 8.	Verify that each table has the correct data by running a SELECT statement for each.
 
+When looking at the basic diagram in github click on 'Code' instead of 'Preview' to view the diagram as intended. 
